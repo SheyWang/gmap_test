@@ -1,0 +1,11 @@
+C:\Users\huangfudong\Desktop\work\gmap_test\gmap_test\gmap_test\bin\Debug\gmap_test.exe.config
+C:\Users\huangfudong\Desktop\work\gmap_test\gmap_test\gmap_test\bin\Debug\gmap_test.exe
+C:\Users\huangfudong\Desktop\work\gmap_test\gmap_test\gmap_test\bin\Debug\gmap_test.pdb
+C:\Users\huangfudong\Desktop\work\gmap_test\gmap_test\gmap_test\bin\Debug\GMap.NET.Core.xml
+C:\Users\huangfudong\Desktop\work\gmap_test\gmap_test\gmap_test\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\huangfudong\Desktop\work\gmap_test\gmap_test\gmap_test\obj\Debug\gmap_test.csprojResolveAssemblyReference.cache
+C:\Users\huangfudong\Desktop\work\gmap_test\gmap_test\gmap_test\obj\Debug\gmap_test.Form1.resources
+C:\Users\huangfudong\Desktop\work\gmap_test\gmap_test\gmap_test\obj\Debug\gmap_test.Properties.Resources.resources
+C:\Users\huangfudong\Desktop\work\gmap_test\gmap_test\gmap_test\obj\Debug\gmap_test.csproj.GenerateResource.Cache
+C:\Users\huangfudong\Desktop\work\gmap_test\gmap_test\gmap_test\obj\Debug\gmap_test.exe
+C:\Users\huangfudong\Desktop\work\gmap_test\gmap_test\gmap_test\obj\Debug\gmap_test.pdb
